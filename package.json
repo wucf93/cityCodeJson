@@ -1,0 +1,25 @@
+{
+  "name": "citycodejson",
+  "version": "1.0.0",
+  "description": "convert AMap cityCode excel to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcf93/cityCodeJson.git"
+  },
+  "keywords": [
+    "city"
+  ],
+  "author": "wucf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wcf93/cityCodeJson/issues"
+  },
+  "homepage": "https://github.com/wcf93/cityCodeJson#readme",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
