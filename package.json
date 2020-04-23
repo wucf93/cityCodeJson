@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wcf93/cityCodeJson.git"
+    "url": "git+https://github.com/wucf93/cityCodeJson.git"
   },
   "keywords": [
     "city"
@@ -16,9 +16,9 @@
   "author": "wucf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wcf93/cityCodeJson/issues"
+    "url": "https://github.com/wucf93/cityCodeJson/issues"
   },
-  "homepage": "https://github.com/wcf93/cityCodeJson#readme",
+  "homepage": "https://github.com/wucf93/cityCodeJson#README.md",
   "dependencies": {
     "node-xlsx": "^0.15.0"
   }
